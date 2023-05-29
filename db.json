@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Teclado",
+      "precio": "2000",
+      "id": 7
+    },
+    {
+      "nombre": "Mouse",
+      "precio": "500",
+      "id": 8
+    },
+    {
+      "nombre": "laptop",
+      "precio": 160000,
+      "id": 11
+    }
+  ]
+}
